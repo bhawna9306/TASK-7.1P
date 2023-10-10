@@ -1,0 +1,29 @@
+.sign{ 
+    top:55%;
+    left: 30%;	
+    position:absolute;
+    width:800px;
+    height:400px;
+    margin:-280px 0px 0px 0px;}
+.name{
+width: 80%;
+float: right;
+height: 25px;
+margin-bottom: 25px;}
+.email{
+    width: 80%;
+    float: right;
+    height: 25px;
+    margin-bottom: 25px;}
+.password{
+        width: 80%;
+        float: right;
+        height: 25px;
+        margin-bottom: 25px;
+        }
+.passwords{
+            width: 80%;
+            float: right;
+            height: 25px;
+            margin-bottom: 25px;
+            }
